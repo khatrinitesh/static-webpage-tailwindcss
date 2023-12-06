@@ -1,0 +1,134 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Appetite";
+  src: url("../../../dist/fonts/appetite.eot");
+  src: url("../../../dist/fonts/appetite.eot?#iefix")
+      format("embedded-opentype"),
+    url("../../../dist/fonts/appetite.woff2") format("woff2"),
+    url("../../../dist/fonts/appetite.woff") format("woff"),
+    url("../../../dist/fonts/appetite.ttf") format("truetype"),
+    url("../../../dist/fonts/appetite.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Plutobold";
+  src: url("../../../dist/fonts/plutobold.eot");
+  src: url("../../../dist/fonts/plutobold.eot?#iefix")
+      format("embedded-opentype"),
+    url("../../../dist/fonts/plutobold.woff2") format("woff2"),
+    url("../../../dist/fonts/plutobold.woff") format("woff"),
+    url("../../../dist/fonts/plutobold.ttf") format("truetype"),
+    url("../../../dist/fonts/plutobold.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Plutocondbold";
+  src: url("../../../dist/fonts/plutocondbold.eot");
+  src: url("../../../dist/fonts/plutocondbold.eot?#iefix")
+      format("embedded-opentype"),
+    url("../../../dist/fonts/plutocondbold.woff2") format("woff2"),
+    url("../../../dist/fonts/plutocondbold.woff") format("woff"),
+    url("../../../dist/fonts/plutocondbold.ttf") format("truetype"),
+    url("../../../dist/fonts/plutocondbold.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Plutocondlight";
+  src: url("../../../dist/fonts/plutocondlight.eot");
+  src: url("../../../dist/fonts/plutocondlight.eot?#iefix")
+      format("embedded-opentype"),
+    url("../../../dist/fonts/plutocondlight.woff2") format("woff2"),
+    url("../../../dist/fonts/plutocondlight.woff") format("woff"),
+    url("../../../dist/fonts/plutocondlight.ttf") format("truetype"),
+    url("../../../dist/fonts/plutocondlight.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Plutolight";
+  src: url("../../../dist/fonts/plutolight.eot");
+  src: url("../../../dist/fonts/plutolight.eot?#iefix")
+      format("embedded-opentype"),
+    url("../../../dist/fonts/plutolight.woff2") format("woff2"),
+    url("../../../dist/fonts/plutolight.woff") format("woff"),
+    url("../../../dist/fonts/plutolight.ttf") format("truetype"),
+    url("../../../dist/fonts/plutolight.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Plutomedium";
+  src: url("../../../dist/fonts/plutomedium.eot");
+  src: url("../../../dist/fonts/plutomedium.eot?#iefix")
+      format("embedded-opentype"),
+    url("../../../dist/fonts/plutomedium.woff2") format("woff2"),
+    url("../../../dist/fonts/plutomedium.woff") format("woff"),
+    url("../../../dist/fonts/plutomedium.ttf") format("truetype"),
+    url("../../../dist/fonts/plutomedium.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Poppinsmedium";
+  src: url("../../../dist/fonts/poppinsmedium.eot");
+  src: url("../../../dist/fonts/poppinsmedium.eot?#iefix")
+      format("embedded-opentype"),
+    url("../../../dist/fonts/poppinsmedium.woff2") format("woff2"),
+    url("../../../dist/fonts/poppinsmedium.woff") format("woff"),
+    url("../../../dist/fonts/poppinsmedium.ttf") format("truetype"),
+    url("../../../dist/fonts/poppinsmedium.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Riftsoftbold";
+  src: url("../../../dist/fonts/riftsoftbold.eot");
+  src: url("../../../dist/fonts/riftsoftbold.eot?#iefix")
+      format("embedded-opentype"),
+    url("../../../dist/fonts/riftsoftbold.woff2") format("woff2"),
+    url("../../../dist/fonts/riftsoftbold.woff") format("woff"),
+    url("../../../dist/fonts/riftsoftbold.ttf") format("truetype"),
+    url("../../../dist/fonts/riftsoftbold.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Simplesummer";
+  src: url("../../../dist/fonts/simplesummer.eot");
+  src: url("../../../dist/fonts/simplesummer.eot?#iefix")
+      format("embedded-opentype"),
+    url("../../../dist/fonts/simplesummer.woff2") format("woff2"),
+    url("../../../dist/fonts/simplesummer.woff") format("woff"),
+    url("../../../dist/fonts/simplesummer.ttf") format("truetype"),
+    url("../../../dist/fonts/simplesummer.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "sundaygrapes";
+  src: url("../../../dist/fonts/sundaygrapes.eot");
+  src: url("../../../dist/fonts/sundaygrapes.eot?#iefix")
+      format("embedded-opentype"),
+    url("../../../dist/fonts/sundaygrapes.woff2") format("woff2"),
+    url("../../../dist/fonts/sundaygrapes.woff") format("woff"),
+    url("../../../dist/fonts/sundaygrapes.ttf") format("truetype"),
+    url("../../../dist/fonts/sundaygrapes.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
